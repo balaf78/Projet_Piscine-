@@ -1,0 +1,21 @@
+9
+10
+0 34.2857 300 193 lion.jpg
+1 60 34 384 elephant.jpg
+2 50 34 564 feuilles.jpg
+3 0 130 41 humains.jpg
+4 0 434 484 singe.jpg
+5 0 284 564 fruits.jpg
+6 0 664 564 plantes.jpg
+7 60 765 73 leopard.jpg
+8 0 534 414 antilope.jpg
+0 2 1
+1 1 3
+2 0 3
+3 3 0
+4 5 0
+5 5 4
+6 4 7
+7 8 7
+8 6 8
+9 8 0

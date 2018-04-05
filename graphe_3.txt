@@ -1,0 +1,22 @@
+8
+12
+1 0.0 300 100 requin.jpg
+2 0.0 50 100 phoque.jpg
+3 0.0 700 100 baleine.jpg
+4 0.0 200 200 espadon.jpg
+5 0.0 350 300 poisson_chat.jpg
+6 0.0 350 400 maquereau.jpg
+7 0.0 350 580 plancton.jpg
+8 0.0 350 500 crustaces.jpg
+1 1 2
+2 1 4
+3 1 5
+4 2 5
+5 2 8
+6 4 5
+7 4 8
+8 6 8
+9 5 8
+10 3 7
+11 3 6
+12 3 7
